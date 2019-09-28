@@ -2,4 +2,4 @@
 - HTML
 - CSS
 - JavaScript
-- Responsive
+- Mobile Responsive
