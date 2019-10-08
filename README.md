@@ -1,4 +1,4 @@
-# FrontEnd_Photography_Website
+# FrontEnd Photography Website
 - HTML
 - CSS
 - JavaScript
