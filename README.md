@@ -1,5 +1,3 @@
 # FrontEnd Photography Website
-- HTML
-- CSS
-- JavaScript
+- Built using HTML, CSS and JavaScript
 - Mobile Responsive
