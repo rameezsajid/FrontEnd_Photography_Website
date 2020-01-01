@@ -1,4 +1,4 @@
-# Front-End Photography Portfolio Website
+# Front-End
 - Built using HTML, CSS and JavaScript
 - Mobile Responsive
 - Scrollable
