@@ -3,7 +3,7 @@ $(function(){
     e.preventDefault();
         $("#panel").slideToggle();
          $('html, body').animate({
-        scrollTop: 10000
+        scrollTop: 15000
     }, 2500);
     });
 });
